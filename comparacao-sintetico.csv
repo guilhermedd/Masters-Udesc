@@ -1,0 +1,5 @@
+﻿metodo,seed,orcamento,politica_ativa,taxa_alertas_cal_por_1000,eventos_avaliaveis,eventos_sem_cobertura,eventos_detectados,recall_evento,falsos_alarmes,exposicao_normal,far_por_1000,atraso_mediano_amostras,dentro_orcamento_teste
+R2C-AD,42,5.0,True,2.028397565922921,3,0,3,1.0,8,1463,5.468215994531784,0.0,False
+Isolation Forest,42,5.0,True,2.028397565922921,3,0,3,1.0,14,1463,9.569377990430622,21.0,False
+PCA,42,5.0,True,4.056795131845842,3,0,3,1.0,17,1463,11.619958988380041,1.0,False
+MAD por sensor,42,5.0,True,2.028397565922921,3,0,2,0.6666666666666666,10,1463,6.83526999316473,18.0,False
